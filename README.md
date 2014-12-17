@@ -18,8 +18,8 @@ Features/Todo
 
 Features via Service
 -------------
--Contact forms
--Comments
--Users login (Google/Facebook/Twitter/OpenId)
--Polls
--Forums?
+- Contact forms
+- Comments
+- Users login (Google/Facebook/Twitter/OpenId)
+- Polls
+- Forums?
