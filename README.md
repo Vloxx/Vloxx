@@ -15,3 +15,11 @@ Features/Todo
 - No requirement for server side language for production setup
 - Configuration via JSON, no local database required for development
 - Search emulation for the static site
+
+Features via Service
+-------------
+-Contact forms
+-Comments
+-Users login (Google/Facebook/Twitter/OpenId)
+-Polls
+-Forums?
