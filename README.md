@@ -18,6 +18,7 @@ Features/Todo
 
 Features via Service
 -------------
+These features will require Javascript embeds working with an API (the service)
 - Contact forms
 - Comments
 - Users login (Google/Facebook/Twitter/OpenId)
