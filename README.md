@@ -15,6 +15,7 @@ Features/Todo
 - No requirement for server side language for production setup
 - Configuration via JSON, no local database required for development
 - Search emulation for the static site
+- No requirement for coding.
 
 Features via Service
 -------------
@@ -24,3 +25,4 @@ These features will require Javascript embeds working with an API (the service)
 - Users login (Google/Facebook/Twitter/OpenId)
 - Polls
 - Forums?
+- Theme install via Online shop.
